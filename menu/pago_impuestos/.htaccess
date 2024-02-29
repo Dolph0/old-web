@@ -1,0 +1,3 @@
+<FilesMatch "^(pago_impuestos_mobile|pago_tarjeta_TPVBBVA)\.php$">
+    Header unset X-Frame-Options
+</FilesMatch>

@@ -1,0 +1,60 @@
+
+
+.txt_miga_no_link { color: #B4BCD7; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; text-decoration: none; font-weight: bold }
+.txt_cabecera { color: #267A65; font-family: arial black; font-size: 20px; }
+.txt_ordenanza_link { font-family: Verdana, Arial, Helvetica, sans-serif; 
+                      font-size: 9.5pt; color: green; 
+                      text-decoration: none; font-weight: normal}
+.txt_subtitulo_ordenanzas { font-family: Verdana, Arial, Helvetica; 
+                            sans-serif; font-size: 9pt; 
+                            text-decoration: none; 
+                           }
+.td_diapago { color: #B4BCD7; background-color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; text-decoration: none ; font-weight: bold ; border-style: none}
+.txt_generico { color: #39363c; font-family: arial; font-size: 12px; font-weight: bold }
+
+.txt_miga_link { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; 
+                 color: #FF4C03; text-decoration: none; font-weight: bold}
+.td_dcho_menu {  background-color: #37BC9B; border-color: #FFFFFF ; border-style: solid; border-top-width: 0px; border-right-width: 1px; border-bottom-width: 0px; border-left-width: 0px}
+.td_izdo_menu { background-color: #4A89DC}
+.td_linea_menu { background-color: #DBE0E8}
+.txt_menu {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8.0pt; 
+             color: #FFFFFF; text-decoration: none; letter-spacing: 1px; }
+a:hover {  color: #FFFFFF; 
+           background-color: #53475e; }
+.td_inf_top { background-color: #325787; border-color: #FFFFFF black; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 1px; border-left-width: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8.5pt; color: #FFFFFF; }
+.fondo_body_contenido { background-image:url('../imagenes/background.jpg'); }
+.td_sup_top { background-color: #FFFFFF; border-color: #FFFFFF black; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 1px; border-left-width: 0px}
+.td_firma { background-color: #B4BCD7; border-color: #FFFFFF; 
+            font-family: Arial, Helvetica, sans-serif; font-size: 8.5pt; 
+            color: #FFFFFF; border-style: solid; 
+            border-top-width: 1px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; 
+            text-decoration: none
+          }
+.td_titulo { background-color: #A3B1BE; font-family: Geneva, Arial, Helvetica, san-serif; font-size: 10pt; font-weight: bold; color: #000000}
+.txt_ordenanza_tit { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; 
+                     color: #666666; text-decoration: none; 
+                     font-weight: bold }
+.txt_normal { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; 
+              color: #000000; text-decoration: none; font-weight: normal}
+.txt_botones_video { font-family: Arial; font-size: 14px; 
+                     color: #000000; text-decoration: none; font-weight: bold;}
+.txt_chico { font-family: Arial, Helvetica, sans-serif; font-size: 8.5pt; 
+             color: #333333; text-decoration: none }
+.txt_seccion_ordenanzas { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; 
+                          color: green; text-decoration: none; 
+                          font-weight: bold }
+.txt_plusvalia_1 { font-family: Arial; font-size: 9pt; color: #000000; text-decoration: none; } 
+.td_mes { background-color: #B4BCD7; font-family: "Arial Narrow", Verdana; font-size: 9pt; color: #FFFFFF; text-decoration: none; border-style: none; text-transform: uppercase; font-weight: bold; letter-spacing: 1pt}
+.td_dia { background-color: #FFFFFF; border-color: #FFFFFF black; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 1px; border-left-width: 0px ; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; color: #000000; text-decoration: none ; font-weight: bold}
+.td_diafiesta { background-color: #FFFFFF; border-color: #FFFFFF black; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 1px; border-left-width: 0px ; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; color: #FF3300; text-decoration: none ; font-weight: bold}
+.txt_diapago { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; color: #FFFFFF; text-decoration: none; letter-spacing: 1px }
+.txt_idioma { color: #FFFFFF	;text-decoration:none; font-weight: bold ; }
+.txt_idiomaactual { color: Yellow; font-weight: bold ; }
+.txt_blanco { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; color: #FFFFFF; text-decoration: none; }
+.txt_formulario { font-family: Verdana; font-size: 12px; color: #000000; }
+.parrafo_formulario { text-indent: 20px; font-family: Verdana; font-size: 12px; color: #000000; }
+.caja_formulario { font-weight: bold; font-family: Verdana; font-size: 12px; color: black; border: 0px; border-bottom: 1px solid black; }
+.textarea_formulario { font-weight: bold; font-family: Verdana; font-size: 12px; color: black; border: 1px solid black; }
+.combo_formulario { font-weight: bold; font-family: Verdana; font-size: 12px; color: black; }
+.dato_formulario { font-weight: bold; font-family: Verdana; font-size: 12px; color: black; text-decoration: underline; } 
+

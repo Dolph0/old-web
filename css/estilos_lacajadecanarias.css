@@ -1,0 +1,453 @@
+BODY
+{
+   background-color : White;
+   font-size        : 10px;
+}
+td
+{
+   background-color : White;
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 8pt;
+   height           : 12px;
+   padding-right    : 5px;
+}
+.espcelda
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 10px;
+   height           : 12px;
+   padding-right    : 0px;
+}
+.esptabla
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 10px;
+   height           : 12px;
+   border-bottom    : black 1px solid;
+   border-left      : black 1px solid;
+   border-right     : black 1px solid;
+   border-top       : black 1px solid;
+}
+P
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 10px;
+   color            : Black;
+}
+li
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 10px;
+   color            : Black;
+   text-align       : justify;
+}
+.Colorpag 
+{
+   background: white;
+}
+.Colorpag1
+{
+   background: white;
+}
+.Colorpag2
+{
+   background: white;
+}
+.Cabecera
+{
+   background-color : #F1C78B;
+   font-size        : 14px;
+   color            : Black;
+   font-weight      : bold;
+}
+.Cabecera1
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 14px;
+   color            : Navy;
+   font-weight      : bold;
+}
+.Cabecera2
+{
+   background-color : #F7DAB7;
+   font-size        : 8pt;
+   color            : Black;
+   font-weight      : bold;
+}
+.Totales
+{
+   background-color : #F7DAB7;
+   font-size        : 8pt;
+   color            : Black;
+   font-weight      : bold;
+}
+.CabeceraMedia
+{
+   background-color : #F7DAB7;
+   font-size        : 8pt;
+   color            : Black;
+   font-weight      : bold;
+}
+.CabeceraMedia1 
+{
+   background-color : #F7DAB7;
+   color            : Black;
+   font-weight      : bold;
+}
+.CabeceraMediaA 
+{
+   background-color : white;
+   font-size        : 8pt;
+   color            : Black;
+}
+.CabeceraMediaB 
+{
+   background-color : #F1C78B;
+   font-size        : 8pt;
+   color            : Black;
+   font-weight      : bold;
+}
+.CabeceraMediaC 
+{
+   font-size        : 8pt;
+   color            : Black;
+   font-weight      : bold;
+}
+.CabeceraMediaD 
+{
+   background-color : #F1C78B;
+   font-size        : 11px;
+   color            : Black;
+}
+.CabeceraMediaJ
+{
+   font-size        : 11px;
+   color            : Black;
+}
+.CabeceraTabla1
+{
+   background-color : #F1C78B;
+   font-size        : 8pt;
+   color            : Black;
+   font-weight      : bold;
+}
+.CabeceraTabla2 
+{
+   background-color : #F7DAB7;
+   font-size        : 8pt;
+   color            : Black;
+   font-weight      : bold;
+}
+.CabeceraTabla3
+{
+   background-color : #F7DAB7;
+   font-size        : 8pt;
+   color            : Black;
+}
+.CabeceraTabla4
+{
+   background-color : #F1C78B;
+   font-size        : 8pt;
+   color            : Black;
+   font-weight      : bold;
+}
+.CabeceraTabla5
+{
+   background-color : white;
+   font-size        : 8pt;
+   color            : Black;
+}
+.CabeceraTabla6
+{
+   background-color : white;
+   font-size        : 8pt;
+   color            : Black;
+}
+.TitulosSalida
+{
+   background-color : white;
+   font-size        : 8pt;
+   color            : Black;
+   font-weight      : bold;
+}
+.CabeceraFrame
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 14px;
+   color            : Navy;
+   font-weight      : bold;
+}
+.CabeceraFrame1
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 14px;
+   color            : Navy;
+   font-weight      : bold;
+}
+.CabeceraFrame2
+{
+   background-color : #F1C78B;
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 8pt;
+   color            : Black;
+   font-weight      : bold;
+}
+.DetalleTabla1
+{
+   font-size        : 8pt;
+}
+.OtraCabecera
+{
+   background-color : #FAEADB;
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 8pt;
+   color            : Navy;
+   font-weight      : bold;
+   margin-left      : 10px;
+}
+.Celdacampos
+{
+   background       : white;
+   color            : black;
+   font-size        : 8pt;
+}
+.Celdadatos
+{
+   background       : white;
+   color            : black;
+   font-size        : 8pt;
+}
+.datosjustificante
+{
+   color            : Black;
+   font-size        : 8pt;
+}
+.justificante
+{
+   color            : Black;
+   font-weight      : bold;
+}
+.peticion
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 14px;
+   color            : Navy;
+   font-weight      : bold;
+}
+.Colortabla
+{
+   color            : BLACK;
+   font-size        : 10px; 
+}
+.Colortabla1
+{
+   color            : BLACK;
+   font-size        : 10px; 
+}
+.Colortabladetalle
+{
+   color            : BLACK;
+   font-size        : 10px; 
+}
+.ColortablaSigno
+{
+   color            : red;
+   font-size        : 10px; 
+}
+.ColortablaSignoVerde
+{
+   font-size        : 10px; 
+   color            : green; 
+   background: white;
+}
+.Icono
+{
+   background: white;
+}
+.separador
+{
+   font-size        : 2px; 
+   background: White;
+}
+.separadorosc
+{
+   font-size        : 2px; 
+   background: White;
+}
+.separadorTit
+{
+   font-size        : 8pt; 
+   background: White;
+}
+.separadorTitosc
+{
+   font-size        : 8pt; 
+   background: White;
+}
+.separadorCab
+{
+   font-size        : 8pt; 
+   background: White;
+}
+.btn
+{
+   border-bottom    : medium none;
+   border-left      : medium none;
+   border-right     : medium none;
+   border-top       : medium none;
+   background       :white;
+}
+.btn1
+{
+   border-bottom    : medium none;
+   border-left      : medium none;
+   border-right     : medium none;
+   border-top       : medium none;
+   background       : white;
+}
+.normal
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 8pt;
+   color            : Black;
+}
+.azul
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 8pt;
+   color            : Navy;
+}
+.azulcenter
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 8pt;
+   color            : Navy;
+   text-align       : center;
+}
+.rojo
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 8pt;
+   color            : Red;
+}
+.blanco
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 8pt;
+   color            : White;
+   link             : White;
+   alink            : White;
+   vlink            : White;
+}
+.blancocenter
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 8pt;
+   color            : White;
+   link             : White;
+   alink            : White;
+   vlink            : White;
+   text-align       : center;
+}
+.titulo
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 10pt;
+   color            : Navy;
+   font-weight      : bold;
+}
+.supertitulo
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 12pt;
+   color            : Navy;
+}
+A.link
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 8pt;
+   color            : Black;
+}
+A.vlink
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 8pt;
+   color            : Black;
+}
+A.hover  
+{
+   font-family      : Arial,Verdana,Tahoma;
+   font-size        : 8pt;
+   color            : Green;
+}
+.Scroll
+{
+   font-size        : 11px;
+}
+.estilop2
+{
+   background-color : white;
+   BACKGROUND-IMAGE : none;
+   BACKGROUND-REPEAT: repeat;
+   color            : White;
+   font-family      : Arial,Verdana, Tahoma;
+   font-size        : 8pt;
+   font-weight      : normal;
+}
+.linea 
+{
+   font-family       : Arial,Tahoma; 
+   font-size         : 8pt;
+   background-color  : #CBD2ED;
+}
+.PRE
+{
+   font-family      : Arial,Verdana, Tahoma;
+   font-size        : 8pt;
+   font-weight      : normal;
+}
+INPUT
+{
+   background-color : White;
+   border-bottom    : 1px solid #CBD2ED;
+   border-left      : 1px solid #CBD2ED;
+   border-right     : 1px solid #CBD2ED;
+   border-top       : 1px solid #CBD2ED;
+   color            : black;
+   font-family      : Arial,Verdana, Tahoma;
+   font-size        : 8pt;
+}
+SELECT
+{
+   background-color : White;
+   border-bottom    : 1px solid #CBD2ED;
+   border-left      :1px solid #CBD2ED;
+   border-right     :1px solid #CBD2ED;
+   border-top       :1px solid #CBD2ED;
+   color            : black;
+   font-family      : Arial,Verdana, Tahoma;
+   font-size        : 8pt;
+}
+.botonesEnvio
+{
+  cursor: pointer;
+  cursor: hand;
+}
+.TextoMedio
+{
+   background-color : White;
+   font-family      : Arial,Verdana, Tahoma;
+   font-size        : 10px;
+}
+.TituloPeq
+{
+   background-color : White;
+   font-family      : Arial,Verdana, Tahoma;
+   font-size        : 10px;
+}
+.Enlace
+{
+   background-color : White;
+   font-family      : Arial,Verdana, Tahoma;
+   font-size        : 10px;
+}

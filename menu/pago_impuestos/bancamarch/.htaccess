@@ -1,0 +1,3 @@
+<Files "envio.php">
+    Header unset X-Frame-Options
+</Files>
